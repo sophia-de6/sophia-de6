@@ -1,0 +1,10 @@
+This is the html basic code.
+
+<html>
+<head>
+<title>HH</title>
+</head>
+<body>
+<h2>Happy Happy</h2>
+</body>
+</html>
